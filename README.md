@@ -1,4 +1,4 @@
-# crt.sh CLI (crtsh-cli)
+# crtsh-cli
 
 ## Overview
 
