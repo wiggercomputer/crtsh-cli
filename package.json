@@ -1,11 +1,11 @@
 {
   "name": "crtsh-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.mjs",
   "type": "module",
   "bin": {
-    "crtsh": "./index.mjs"
+    "crtsh": "index.mjs"
   },
   "scripts": {
     "start": "node index.mjs"
